@@ -1,3 +1,3 @@
 # PY_CLASS 
 
-Project to keep a repository for the lessons for python class
+Repositiry to keep track of the lessons for python class
